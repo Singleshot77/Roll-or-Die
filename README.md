@@ -34,3 +34,5 @@ B rolls: 4 (B's score: 11)
 B rolls: 1 (B's turn ends, C's turn starts)
 C rolls: 1 (C's turn ends, D's turn starts)
 The game continues until one player reaches the goal without rolling a 1.
+
+Made using Visualstudiocode
